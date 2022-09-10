@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+*{
+  padding: 0px;
+  margin: 0px;
+  
+}
+body{
+  overflow-x: hidden !important;
+}
+.nav-header{
+  font-family: 'Abril Fatface', cursive;
+  font-size: xx-large;
+  color: rgb(249, 175, 37);
+}
+.bg-white{
+  background-color: white;
+}
